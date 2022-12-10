@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2e76135-ba89-48d6-bf95-450ccbecafcb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Autres/Esprit 2015/Exercice/src/Electeur.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Autres/Esprit 2015/Exercice/src/Electeur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autres/Esprit 2015/Exercice/src/Vote.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Autres/Esprit 2015/Exercice/src/Vote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autres/Esprit 2015/Exercice/src/VoteImpossibleException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Autres/Esprit 2015/Exercice/src/VoteImpossibleException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autres/One/Exercice2/src/Bibliotheque.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Autres/One/Exercice2/src/Bibliotheque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autres/One/Exercice2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Autres/One/Exercice2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autres/One/Exercice2/src/Ouvrage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Autres/One/Exercice2/src/Ouvrage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autres/One/out/production/Exercice2/Bibliotheque.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Autres/One/out/production/Exercice2/Bibliotheque.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autres/One/out/production/Exercice2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Autres/One/out/production/Exercice2/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IfugdgITSc0xl6HFWjeqWgZdWk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "C:/Users/fessi/Documents/2LM/TP java/ELFESSI Ikram 2LM1 tp1",
+    "settings.editor.selected.configurable": "editor.preferences.appearance"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2e76135-ba89-48d6-bf95-450ccbecafcb" name="Changes" comment="" />
+      <created>1670585070164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670585070164</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
